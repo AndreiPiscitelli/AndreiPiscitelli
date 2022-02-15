@@ -2,6 +2,7 @@
 - 👀 I’m interested in fashion and statistics
 - 🌱 I’m currently learning statistics at my university and fashion throught online courses and extensive reading
 - 💞️ I’m looking to collaborate on data analysis and statistical applications related to fashion
+- 💻 I program mostly on R and Python
 - 📫 You can reach me throught those links:
       -> Linkedin: www.linkedin.com/in/andrei-piscitelli-857032100
                  -> email: andreipisci@hotmail.com
