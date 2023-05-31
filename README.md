@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @AndreiPiscitelli
-- 👀 I’m interested in fashion and statistics
-- 🌱 I’m currently learning statistics at my university and fashion throught online courses and extensive reading
-- 💞️ I’m looking to collaborate on data analysis and statistical applications related to fashion
-- 💻 I program mostly in R and Python
-- 📫 You can reach me throught those links:
-      -> Linkedin: www.linkedin.com/in/andrei-piscitelli-857032100
-                 -> email: andreipisci@hotmail.com
+<p align="center">
+<img src="https://github.com/AndreiPiscitelli/AndreiPiscitelli/blob/c5d2618e90cc1320808659fecddd6220c67c05bd/Banner_github.png"/>
+          </p>
