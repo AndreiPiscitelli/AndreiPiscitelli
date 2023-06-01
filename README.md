@@ -4,7 +4,7 @@
           
  I am currently studying statistics at UNICAMP and I am deeply interested in fashion.
  
- You can find me on [linkedin](www.linkedin.com/in/andrei-piscitelli-857032100).
+ You can find me on [linkedin](<https://www.linkedin.com/in/andrei-piscitelli-857032100>).
 
 
  Feel free to contact me :)
